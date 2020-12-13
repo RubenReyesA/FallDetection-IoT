@@ -1,2 +1,2 @@
 # FallDetection-IoT
-Fall Detection app developed with Android Studio for IoT project. 
+Fall Detection system developed with Android Studio, Visual Studio Code, PlatformIO for IoT project. 
