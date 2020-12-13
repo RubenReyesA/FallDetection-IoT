@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "534305138098",
+    "firebase_url": "https://falldetection-bee2b.firebaseio.com",
+    "project_id": "falldetection-bee2b",
+    "storage_bucket": "falldetection-bee2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534305138098:android:b507419ff65bb84cc830ab",
+        "android_client_info": {
+          "package_name": "com.iot.falldetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534305138098-nauigotphjd0vbutib8rp43dl7onhnkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC8BNa7HvTBjRUlT_TAUNEx302nN6r3E4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534305138098-nauigotphjd0vbutib8rp43dl7onhnkq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

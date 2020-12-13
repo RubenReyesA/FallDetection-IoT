@@ -1,0 +1,15 @@
+.title{
+    margin-bottom: 10px;
+}
+
+.updateText{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.btn{
+    margin-left: 20px;
+}
